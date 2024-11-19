@@ -1,0 +1,48 @@
+[
+    {
+        "day": [1, 6],
+        "time": "09:00",
+        "title": "Good Morning!",
+        "message": "Waktunya bangun! Semangat ya, semoga harimu lebih cerah daripada layar HP kamu 🫶",
+        "icon": "clock.png",
+        "sound": "alarm.mp3"
+    },
+    {
+        "day": [1, 6],
+        "time": "12:00",
+        "title": "Makan Siang!!",
+        "message": "Waktunya makan siang! Selamat menikmati makanan yang lezat dan sehat! 🍔🍟🍕🍟🍜🍟🍔🍟",
+        "icon": "clock.png",
+        "sound": "alarm.mp3"
+    },
+    {
+        "day": [1, 6],
+        "time": "15:00",
+        "title": "Bentar Lagi Pulang",
+        "message": "Yok semangat lagi kerjanya habis ini pulang, jangan mager mager yaa"
+    },
+    {
+        "day": [1, 6],
+        "time": "18:02",
+        "title": "I'ts time to go",
+        "message": "Woww kurang 10 menit lagi pulang, semangat semangat. kemasi barang mu sekarang"
+    },
+    {
+        "day": [1, 7],
+        "time": "19:00",
+        "title": "Good Evening!",
+        "message": "Selamat malam! Jangan lupa kuliah dulu ya, tapi kalau sudah kenyang, baru tidur nyenyak 😴"
+    },
+    {
+        "day": [1, 7],
+        "time": "21:00",
+        "title": "Good Night!",
+        "message": "Tumben masih mainan laptop, kalo sudah cape ngantuk, jangan lupa tidur dulu, biar besok semangat! 🫶"
+    },
+    {
+        "day": [1, 7],
+        "time": "23:00",
+        "title": "Udah Malem nih!",
+        "message": "Udah jam 11, guys! Kalau ngantuk, jangan dipaksain, tidur aja dulu, biar besok makin semangat! 😆"
+    }
+]
